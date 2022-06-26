@@ -5,27 +5,6 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-class Empleado {
-    public String nya;
-    public int dni;
-    public int horasTrabajadas;
-    public int valorPorHora;
-
-    public Empleado(int dni, String nya, int horasTrabajadas, int valorPorHora){
-        this.nya = nya;
-        this.dni = dni;
-        this.horasTrabajadas = horasTrabajadas;
-        this.valorPorHora = valorPorHora;
-    }
-
-    @Override
-    public String toString() {
-        return String.valueOf(this.dni)+
-                " - "+this.nya;
-    }
-}
-
-
 public class Exercise6 {
 
     public static void main(String[] args) {
@@ -40,7 +19,6 @@ public class Exercise6 {
         for (Empleado i : empleados) {
             sueldos.put(i.dni, (i.horasTrabajadas*i.valorPorHora));
         }
-
 
         System.out.println("Sueldo para dni 39318541: "+sueldos.get(39318541));
     }
