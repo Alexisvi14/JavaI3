@@ -1,0 +1,55 @@
+2022-07-07 19:18:42 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:19:35 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:19:35 [main] INFO  Exercise2:22 - : 11
+2022-07-07 19:20:09 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:20:14 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:20:14 [main] INFO  Exercise2:22 - : 1
+2022-07-07 19:20:14 [main] INFO  Exercise2:22 - : 1
+2022-07-07 19:20:14 [main] INFO  Exercise2:26 - El resultado de la suma es: 2
+2022-07-07 19:20:14 [main] INFO  Exercise2:27 - El resultado de la resta es: 0
+2022-07-07 19:20:14 [main] INFO  Exercise2:28 - El resultado de la multiplicacion es: 1
+2022-07-07 19:20:14 [main] INFO  Exercise2:29 - El resultado de la division es: 1
+2022-07-07 19:20:14 [main] INFO  Exercise2:30 - El resultado del modulo es: 0
+2022-07-07 19:23:58 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:24:06 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:24:06 [main] INFO  Exercise2:22 - : 5
+2022-07-07 19:24:06 [main] INFO  Exercise2:22 - : 4
+2022-07-07 19:24:06 [main] INFO  Exercise2:26 - El resultado de la suma es: 9
+2022-07-07 19:24:06 [main] INFO  Exercise2:27 - El resultado de la resta es: 1
+2022-07-07 19:24:06 [main] INFO  Exercise2:28 - El resultado de la multiplicacion es: 20
+2022-07-07 19:24:06 [main] INFO  Exercise2:29 - El resultado de la division es: 1
+2022-07-07 19:24:06 [main] INFO  Exercise2:30 - El resultado del modulo es: 1
+2022-07-07 19:27:05 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:27:11 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:27:11 [main] INFO  Exercise2:22 - : 4
+2022-07-07 19:27:18 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:27:22 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:27:22 [main] INFO  Exercise2:22 - : 4
+2022-07-07 19:27:22 [main] INFO  Exercise2:22 - : 5
+2022-07-07 19:27:22 [main] INFO  Exercise2:26 - 4 +  5 = 9
+2022-07-07 19:27:22 [main] INFO  Exercise2:27 - El resultado de la resta es: -1
+2022-07-07 19:27:22 [main] INFO  Exercise2:28 - El resultado de la multiplicacion es: 20
+2022-07-07 19:27:22 [main] INFO  Exercise2:29 - El resultado de la division es: 0
+2022-07-07 19:27:22 [main] INFO  Exercise2:30 - El resultado del modulo es: 4
+2022-07-07 19:32:16 [main] INFO  Exercise2:14 - Ingrese 2 numeros enteros separados por espacio: 
+2022-07-07 19:32:22 [main] INFO  Exercise2:20 - Los numeros ingresados son: 
+2022-07-07 19:32:22 [main] INFO  Exercise2:22 - : 5
+2022-07-07 19:32:22 [main] INFO  Exercise2:22 - : 4
+2022-07-07 19:32:22 [main] INFO  Exercise2:26 - 5 + 4 = 9
+2022-07-07 19:32:22 [main] INFO  Exercise2:27 - 5 - 4 = 1
+2022-07-07 19:32:22 [main] INFO  Exercise2:28 - 5 * 4 = 20
+2022-07-07 19:32:22 [main] INFO  Exercise2:29 - 5 / 4 = 1
+2022-07-07 19:32:22 [main] INFO  Exercise2:30 - 5 % 4 = 1
+2022-07-07 19:36:09 [main] INFO  Exercise3:13 - Ingrese un solo numero entero para iterar: 
+2022-07-07 19:36:14 [main] INFO  Exercise3:22 -  1
+2022-07-07 19:36:14 [main] INFO  Exercise3:22 -  1 2
+2022-07-07 19:36:14 [main] INFO  Exercise3:22 -  1 2 3
+2022-07-07 19:36:14 [main] INFO  Exercise3:22 -  1 2 3 4
+2022-07-07 19:36:14 [main] INFO  Exercise3:22 -  1 2 3 4 5
+2022-07-07 19:39:27 [main] INFO  Exercise3:13 - Ingrese un solo numero entero para iterar: 
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1 2
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1 2 3
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1 2 3 4
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1 2 3 4 5
+2022-07-07 19:39:30 [main] INFO  Exercise3:22 -  1 2 3 4 5 6

@@ -23,11 +23,11 @@ public class Exercise2 {
         } ;
         int a = Integer.parseInt(separado[0]);
         int b = Integer.parseInt(separado[1]);
-        LOGGER.info("El resultado de la suma es: " +(a+b));
-        LOGGER.info("El resultado de la resta es: " +(a-b));
-        LOGGER.info("El resultado de la multiplicacion es: " +(a*b));
-        LOGGER.info("El resultado de la division es: " +(a/b));
-        LOGGER.info("El resultado del modulo es: " +(a % b));
+        LOGGER.info(a+" + "+ b + " = "+ (a+b));
+        LOGGER.info(a+" - "+ b + " = "+ (a-b));
+        LOGGER.info(a+" * "+ b + " = "+ (a*b));
+        LOGGER.info(a+" / "+ b + " = "+ (a/b));
+        LOGGER.info(a+" % "+ b + " = "+ (a % b));
 
     }
 }
